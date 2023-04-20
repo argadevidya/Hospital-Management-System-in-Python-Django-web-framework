@@ -1,6 +1,9 @@
 # Hospital-Management-System-in-Python-Django-web-framework
 A web app with 3 sections (Patient, Doctor, and Admin) manages hospital-patient records, appointments, admissions, discharges, bill generation, and admin operations.
 
+## Project Source Code:
+
+https://drive.google.com/file/d/1sH_TUsYP8ttzYk8-aHwSDQ7XPDCHXEUc/view?usp=share_link
 
 ##  Project Overview:
 
