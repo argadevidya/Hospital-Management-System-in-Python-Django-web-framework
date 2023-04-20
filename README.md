@@ -22,7 +22,7 @@ Here are the general steps to install the Hospital-Management-System-in-Python-D
 
       pip install django
 
-3.  Download the project: You can download the project from the GitHub repository: https://github.com/ChaitanyaKaranam/Hospital-Management-System-in-Python-Django-web-framework
+3.  Download the project: You can download the project from the GitHub repository:(https://github.com/argadevidya/Hospital-Management-System-in-Python-Django-web-framework)
 
 4.  Extract the project: Extract the downloaded zip file into a suitable location on your system.
 
