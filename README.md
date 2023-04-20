@@ -33,24 +33,26 @@ python -m venv env
 This will create a virtual environment named env.
 
 6.  Activate the virtual environment: Once the virtual environment is created, activate it using the following command:
-
+    ```
     source env/bin/activate
+    ```
 7.  Install project dependencies: With the virtual environment activated, navigate to the project directory and run the following command to install the project dependencies:
-
+    ```
     pip install -r requirements.txt
-
+    ```
 8.  Migrate the database: Run the following command to create the database tables:
-
+    ```
     python manage.py migrate
-    
+    ```
 9.  Create a superuser: Run the following command to create a superuser (an administrator account for the system):
-
+    ```
     python manage.py createsuperuser
-    
+    ```
     
 10.  Run the server: Finally, start the Django development server by running the following command:
-
+    ```
     python manage.py runserver
+    ```
     
     The server will start running on the localhost, and you can access the Hospital Management System by visiting http://localhost:8000/ in your web browser. You can log in to the system using the superuser account created in step 9.
     
